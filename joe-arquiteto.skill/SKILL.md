@@ -1,3 +1,4 @@
+---
 name: joe-arquiteto
 description: Arquiteto de Dados especialista em PostgreSQL, Supabase e modelagem multi-tenant para a plataforma PAPO
 metadata:
