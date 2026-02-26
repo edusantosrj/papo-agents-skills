@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "alex-seguranca": {
+      "source": "edusantosrj/papo-agents-skills",
+      "sourceType": "github",
+      "computedHash": "0f0d2e10281de4f4368e2668f20e3148d3e5b4b8ebb46dc2f751f10a61f44fac"
+    },
+    "bia-designer": {
+      "source": "edusantosrj/papo-agents-skills",
+      "sourceType": "github",
+      "computedHash": "9672dd731d90f5e55b61f3a7934f30cfc562479bf650d10dc323d2ad4ab1a466"
+    },
+    "eva-conversacao": {
+      "source": "edusantosrj/papo-agents-skills",
+      "sourceType": "github",
+      "computedHash": "d100d09391178f1d3f1b275bfeb73d06e9b7df8b08fd995356c584da2790e845"
+    },
+    "john-dev": {
+      "source": "edusantosrj/papo-agents-skills",
+      "sourceType": "github",
+      "computedHash": "7cf4a6c46648a01cc58636e753fc2f1dc0ed56cf85612c4e6f773d75a206b6e6"
+    }
+  }
+}
